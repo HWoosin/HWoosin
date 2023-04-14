@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there!! 안녕하세요!! 👋
+### 개발자 꿈나무 우신이에여~ MY name is woosin~ 
 <!--
 **HWoosin/HWoosin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
