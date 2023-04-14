@@ -1,6 +1,7 @@
 ### Hi there!! 안녕하세요!! 👋
 ### 개발자를 꿈꾸는 우신이 
-### My name is Woosin~ and my dream is Programmer!! 
+### My name is Woosin~ 
+### And my dream is Programmer!! 
 <!--
 **HWoosin/HWoosin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
