@@ -5,3 +5,6 @@
 ### 개발자를 꿈꾸는 우신이~ 💻🖱
 ### My name is Woosin~ 
 ### And my dream is Programmer!! 
+
+### https://hwoosin.github.io/KGC-practiceTeam.github.io/
+### 심심풀이 (와이드 창)게임입니다~ (일반창)화면비율 60% 로 플레이!
