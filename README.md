@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HWoosin&fontSize=90)
-# Hi there!! 안녕하세요!! 👋
+# Hi there!! 안녕하세요!! 👋😊
 <img src="https://img.shields.io/badge/Java-red"/><img src = "https://img.shields.io/badge/JavaScript-F7DF1E"/><img src = "https://img.shields.io/badge/MySql-blue"/><img src="https://img.shields.io/badge/%20-%20Jsp-blueviolet"/><img src ="https://img.shields.io/badge/%20-%20OracleDB-hotpink"/>
 
 ### 개발자를 꿈꾸는 우신이~ 💻🖱
