@@ -10,5 +10,5 @@
 ### 심심풀이 (와이드 창)게임입니다~ (일반창)화면비율 60% 로 플레이!
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=jjiiwon0101&theme=tokyonight&show_icons=true&text_color=e5e5f0&icon_color=707070&hide_border=true" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api?username=HWoosin&theme=tokyonight&show_icons=true&text_color=e5e5f0&icon_color=707070&hide_border=true" width="50%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjiiwon0101&layout=compact" width="43%">
